@@ -1,0 +1,21 @@
+.section_padding{
+    padding:4rem 4rem;
+}
+.footer{
+    background-color: rgb(94, 73, 93);
+    border-radius: 25px;
+}
+.socialmedia {
+    display: flex;
+    flex-direction: row;
+  }
+.socialmedia > a {
+    margin-right: .5rem;
+    width:5%;
+    padding: .3rem.5rem;
+    cursor: pointer;
+    border-radius: 3px;
+}
+.name{
+    padding-right: 15%;
+}
